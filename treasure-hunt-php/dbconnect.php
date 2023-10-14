@@ -1,7 +1,7 @@
 <?php
 
 $host = 'localhost';  // your database host, often this is 'localhost'
-$db   = 'wp-plugin';  // your database name
+$db   = 'medical';  // your database name
 $user = 'root';  // your database username
 $pass = '';  // no password
 $charset = 'utf8mb4';  // the character set to use for the connection
